@@ -1860,7 +1860,7 @@ msgstr "このノートは購買オーダに表示されます。"
 #: code:addons/purchase/models/account_invoice.py:218
 #, python-format
 msgid "This vendor bill has been created from: %s"
-msgstr "この仕入請求書は右の注文書から作成されています："
+msgstr "この仕入請求書は次の注文書から作成されています：%s"
 
 #. module: purchase
 #: code:addons/purchase/models/account_invoice.py:232
